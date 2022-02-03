@@ -1,0 +1,2 @@
+# DELINQUENT.LOANS.INDIRECT
+DELINQUENT.LOANS.2 with only indirect loan types
